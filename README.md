@@ -105,5 +105,4 @@ Each repository contains:
 
 * Email: ikhuram@yahoo.com
 * LinkedIn: https://www.linkedin.com/in/khurram-iqbal-90a462
-* GitHub: https://github.com/ikhuram/khurram
-* 
+* GitHub: https://ikhuram.github.io/khurram-portfolio/
